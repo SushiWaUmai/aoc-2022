@@ -9,3 +9,4 @@ Written in Rust
 | 3   | [Link](https://adventofcode.com/2022/day/3) | [rucksack-reorganization](./day-3-rucksack-reorganization/) |
 | 4   | [Link](https://adventofcode.com/2022/day/4) | [camp-cleanup](./day-4-camp-cleanup/)                       |
 | 5   | [Link](https://adventofcode.com/2022/day/5) | [supply-stacks](./day-5-supply-stacks/)                     |
+| 6   | [Link](https://adventofcode.com/2022/day/6) | [tuning-trouble](./day-6-tuning-trouble/)                   |
